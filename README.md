@@ -1,4 +1,4 @@
-## Olá irmãos de caminhada eu sou Daniel Bueno, programador Python!
+## Olá irmãos de caminhada eu sou Daniel Bueno, aprendiz de Python e Front-end!
 
 <p>Abaixo, algumas Tecnologias e Ferramentas ao qual continuo estudando e aprendendo.</p>
 
